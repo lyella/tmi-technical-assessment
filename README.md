@@ -1,4 +1,4 @@
-# E-Commerce Store
+# TMI Store
 
 A Next.js-based e-commerce application built with TypeScript and Tailwind CSS. The application integrates with the Fake Store API to display products, manage shopping cart functionality, and provide filtering and search capabilities.
 
