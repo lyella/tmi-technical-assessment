@@ -19,7 +19,7 @@ export default async function HomePage() {
         {/* Hero Background Image */}
         <div className="absolute inset-0 z-0">
           <div 
-            className="absolute inset-0 bg-cover bg-center opacity-50"
+            className="absolute inset-0 bg-cover bg-center opacity-70"
             style={{
               backgroundImage: `url('https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=1920&q=80')`,
             }}
